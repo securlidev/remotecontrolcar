@@ -1,0 +1,20 @@
+{
+  "short_name": "N-RC",
+  "name": "Network-RC",
+  "icons": [
+    {
+      "src": "logo-256.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e62662",
+  "background_color": "#ffffff",
+  "permissions": {
+    "audio-capture": {
+      "description": "录制音频发送"
+    }
+  }
+}
